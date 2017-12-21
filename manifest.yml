@@ -1,0 +1,6 @@
+---
+path: ./public
+instances: 1
+memory: 64M
+disk_quota: 64M
+buildpack: staticfile_buildpack
